@@ -1,10 +1,13 @@
 _repo: The-Radio-Boys-in-the-Thousand-Islands--Or-The-Yankee-Canadian-Wireless-Trail_12878
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   dubious_author:
     agent_name: Duffield, J. W.
     gutenberg_agent_id: '4685'
     url: http://www.gutenberg.org/2009/agents/4685
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Honeywell, Frank
@@ -23,6 +26,8 @@ description: Now, fellows, what are we goin' to do this vacation? demanded Cub P
   convince him." "You c'n change that now and call it static instead of noise since
   we've all become radio experts," smirked Cub with characteristic superiority. "Ha,
   ha," laughed Bud.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12878#The-Radio-Boys-in-the-Thousand-Islands--Or-The-Yankee-Canadian-Wireless-Trail
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2004-07-10'
 gutenberg_type: Text
